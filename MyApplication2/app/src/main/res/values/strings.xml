@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="upload">upload</string>4
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string-array name="departments_array">
+        <item>--department--</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>CIV</item>
+        <item>MECH</item>
+        <item>EEE</item>
+        <item>CST</item>
+        <item>CSB</item>
+    </string-array>
+    <string-array name="sections_array">
+        <item>--section--</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="years_array">
+        <item>--year--</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+</resources>
